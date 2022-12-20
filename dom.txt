@@ -2,3 +2,4 @@ welcome to learn dom
 from traversy media.
 and from sharpener.
 by mentors
+array and looping
