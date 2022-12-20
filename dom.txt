@@ -1,5 +1,7 @@
 welcome to learn dom
 from traversy media.
 and from sharpener.
-by mentors
+by mentor
+array and looping
+done my changes
 thank you
